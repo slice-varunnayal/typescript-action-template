@@ -27,3 +27,4 @@ Output produced by action
 ## Docs
 
 - [setup.md](./docs/setup.md)
+  - Ensure ou run `npm run all` and add `dist/index.js` to git as GitHub Action checks this file when being in other workflows.
