@@ -1,5 +1,6 @@
 ## Custom
 tmp
+lib
 
 # Created by https://www.gitignore.io/api/vim,node,webstorm+all,intellij+all,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=vim,node,webstorm+all,intellij+all,visualstudiocode
@@ -167,9 +168,6 @@ typings/
 
 # nuxt.js build output
 .nuxt
-
-# rollup.js default build output
-dist/
 
 # Uncomment the public line if your project uses Gatsby
 # https://nextjs.org/blog/next-9-1#public-directory-support
